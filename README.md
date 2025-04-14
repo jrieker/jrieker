@@ -53,7 +53,7 @@ I’m working toward a role in **software development** or **fullstack engineeri
 ---
 
 ### 📫 Connect with Me  
-- 📧 jacobrieker12@gmail.com
+- jacobrieker12@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/jacob-rieker-3761b226a/)  
 - [YouTube](https://www.youtube.com/@jakegreenway12)  
 
