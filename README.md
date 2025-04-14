@@ -54,7 +54,8 @@ I’m working toward a role in **software development** or **fullstack engineeri
 
 ### 📫 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/jacob-rieker-3761b226a/)  
-- [YouTube](https://www.youtube.com/@jakegreenway12)
+- [YouTube](https://www.youtube.com/@jakegreenway12)  
+- 📧 jacobrieker12@gmail.com
 
 ---
 
