@@ -39,4 +39,23 @@ Currently building a fullstack web application for **Solitaire** and **Blackjack
 
 ---
 
-### 🧠 Skills & Focus Areas
+### 🧠 Skills & Focus Areas  
+- 🧱 **Fullstack Development**: React, C#, ASP.NET Core, SQL, REST APIs  
+- 🕹 **Game Development & Scripting**: Lua, Roblox Studio  
+- 🧩 **Software Architecture**: iDesign structure (Manager, Engine, Accessor)  
+- 🖥 **UI/UX Implementation**: Clean interfaces built around user workflows  
+
+---
+
+### 💼 Career Goals  
+I’m working toward a role in **software development** or **fullstack engineering**, where I can apply both backend logic and front-end structure to real-world products. I pick things up quickly and enjoy learning new tools and frameworks by applying them directly to the projects I build. I'm especially interested in environments that value ownership, technical clarity, and creativity.
+
+---
+
+### 📫 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/jacob-rieker-3761b226a/)  
+- [YouTube](https://www.youtube.com/@jakegreenway12)
+
+---
+
+Thanks for checking out my work.
