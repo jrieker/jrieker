@@ -55,6 +55,5 @@ I’m looking for a software development or fullstack role where I can work on r
 ### Reach Out  
 - **Email**: jacobrieker12@gmail.com  
 - [LinkedIn](https://www.linkedin.com/in/jacob-rieker-3761b226a/)  
-- [YouTube](https://www.youtube.com/@jakegreenway12)
 
 ---
