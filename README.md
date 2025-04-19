@@ -4,7 +4,7 @@ I’m a Computer Science student at the University of Nebraska–Lincoln with a 
 
 ---
 
-### STREETBALL — Competitive Basketball Game  
+### STREETBALL — Competitive Basketball Game 🏀
 A fast-paced 5v5 game I built solo on Roblox. It includes story mode, a full battle pass system, cosmetic unlocks, and custom matchmaking.
 
 - Designed and scripted every feature, from stat tracking to UI  
@@ -17,7 +17,7 @@ A fast-paced 5v5 game I built solo on Roblox. It includes story mode, a full bat
 
 ---
 
-### 9v9 Football League  
+### 9v9 Football League 🏈
 A full league experience built in Roblox with real broadcasters, crowd systems, and weekly games featuring up to 40+ players.
 
 - Handled all game logic: teams, roles, spectating, scoring, and stat tracking  
@@ -30,7 +30,7 @@ A full league experience built in Roblox with real broadcasters, crowd systems, 
 
 ---
 
-### Card Games Project  
+### Card Games Project ♠️
 Right now, I’m building a web app for Solitaire and Blackjack using React and C# with a vertical iDesign-style architecture.
 
 - Separate verticals for each game (UserAccount, Solitaire, Blackjack)  
@@ -40,15 +40,15 @@ Right now, I’m building a web app for Solitaire and Blackjack using React and 
 ---
 
 ### What I Work With  
-- **Languages/Frameworks**: C#, React, ASP.NET Core, SQL, Lua  
-- **Game Dev**: Roblox Studio scripting and asset design  
-- **Architecture**: iDesign vertical structure (Manager, Engine, Accessor)  
-- **UI/UX**: Clean interfaces focused on how users actually use stuff  
+- **Languages & Frameworks**: Java, C#, Python, Javascript, React, ASP.NET Core, SQL, Lua
+- **Architecture**: iDesign vertical structure  
+- **UI/UX**: Clean, intuitive interfaces built around real user workflows  
+- **Game Dev Experience**: Lua scripting and custom asset development
 
 ---
 
 ### What I’m Looking For  
-I’m aiming for a role in software development or fullstack engineering — somewhere I can take ownership, contribute to real products, and keep leveling up by doing meaningful work. I’m not afraid to build from scratch, learn on the go, and dive deep into what I don’t know yet.
+I’m looking for a software development or fullstack role where I can work on real projects, write code that matters, and get better by building. I like being in environments where I can learn fast, take ownership, and actually contribute to the product.
 
 ---
 
