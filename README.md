@@ -14,7 +14,7 @@ A full-stack web app for Solitaire and Blackjack built with React and C# using a
 - Backend built with ASP.NET Core and SQL  
 - Clean UI, smooth game flow, and real card mechanics  
 
-[CardGames Repository](https://github.com/JakeGreenway/CardGames)
+[CardGames Repository](https://github.com/jrieker/CardGamesSolution)
 
 ---
 
